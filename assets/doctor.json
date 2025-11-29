@@ -1,0 +1,6 @@
+[
+  { "name": "Dr. Amit Sharma", "specialization": "Cardiologist", "rating": 4.5 },
+  { "name": "Dr. Priya Singh", "specialization": "Dermatologist", "rating": 4.2 },
+  { "name": "Dr. Kavita Rao", "specialization": "Neurologist", "rating": 4.8 },
+  { "name": "Dr. Raj Verma", "specialization": "Dentist", "rating": 4.3 }
+]
