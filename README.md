@@ -29,5 +29,6 @@ Step 2: Get Dependencies-
 flutter pub get
 Step 3: Run the App-
 flutter run
+step4-
 waits for few seconds
 
